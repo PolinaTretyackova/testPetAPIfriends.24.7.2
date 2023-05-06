@@ -1,7 +1,7 @@
 import requests
 import json
 
-base_url = 'https://petfriends.skillfactory.ru/apidocs'
+base_url = 'https://petstore.swagger.io/v2'
 
 # GET /user/login  Logs user into the system
 
